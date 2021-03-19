@@ -1,4 +1,8 @@
 a = 5
 b = 10
 c = a + b
-bjah
+print(c)
+d= a-b
+print(d)
+e= a*b
+
